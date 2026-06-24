@@ -1,0 +1,42 @@
+# Unity generated directories
+punyopunyo-test/[Ll]ibrary/
+punyopunyo-test/[Tt]emp/
+punyopunyo-test/[Oo]bj/
+punyopunyo-test/[Bb]uild/
+punyopunyo-test/[Bb]uilds/
+punyopunyo-test/[Ll]ogs/
+punyopunyo-test/[Uu]serSettings/
+
+# Unity crash reports and generated files
+punyopunyo-test/[Mm]emoryCaptures/
+punyopunyo-test/[Rr]ecordings/
+punyopunyo-test/sysinfo.txt
+
+# IDE and generated project files
+punyopunyo-test/.vs/
+punyopunyo-test/.vscode/
+punyopunyo-test/ExportedObj/
+punyopunyo-test/*.csproj
+punyopunyo-test/*.sln
+punyopunyo-test/*.slnx
+punyopunyo-test/*.user
+punyopunyo-test/*.userprefs
+punyopunyo-test/*.pidb
+punyopunyo-test/*.booproj
+punyopunyo-test/*.svd
+punyopunyo-test/*.pdb
+punyopunyo-test/*.mdb
+punyopunyo-test/*.opendb
+
+# JetBrains Rider
+punyopunyo-test/.idea/
+punyopunyo-test/*.suo
+punyopunyo-test/*.tmp
+punyopunyo-test/*.user
+punyopunyo-test/*.userosscache
+punyopunyo-test/*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
